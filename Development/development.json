@@ -17,7 +17,7 @@
 				"description": "Programmieren ist das Erstellen von Anweisungen für Computer, um Aufgaben zu erledigen.",
 				"youtube": "",
 				"link": "",
-				"background": "https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg"
+				"background": ""
 			}
 		},
 		{
@@ -32,8 +32,8 @@
 		},
 		{
 			"data": {
-				"id": "18a5a84237c",
-				"label": "Visual Studio",
+				"id": "18a5cd71ed9",
+				"label": "Binärsystem",
 				"description": "",
 				"youtube": "",
 				"link": "",
@@ -809,6 +809,86 @@
 				"link": "",
 				"background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeBaViXskGujUObZrYtVGQrpPVfp5-j-sM-S0YclvMf2gvEdtFyRBw2TZrGg4qIYkLzk&usqp=CAU"
 			}
+		},
+		{
+			"data": {
+				"id": "18a5cd32fa4",
+				"label": "UART",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cd351c0",
+				"label": "Modbus",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cd3a037",
+				"label": "Wichtige Begriffe",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cd3beba",
+				"label": "Baudrate",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cd3e6a3",
+				"label": "Parität",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cd4088e",
+				"label": "Datenbits",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cd4322e",
+				"label": "Stoppbits",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cd6b630",
+				"label": "ASCII System",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/USASCII_code_chart.png/1000px-USASCII_code_chart.png"
+			}
 		}
 	],
 	"edges": [
@@ -826,8 +906,8 @@
 		},
 		{
 			"data": {
-				"source": "18a5a840064",
-				"target": "18a5a84237c"
+				"source": "18a5bb8e69d",
+				"target": "18a5cd71ed9"
 			}
 		},
 		{
@@ -1290,6 +1370,54 @@
 			"data": {
 				"source": "18a5cc74864",
 				"target": "18a5ccae8b3"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cd32fa4"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cd351c0"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cd3a037"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cd3a037",
+				"target": "18a5cd3beba"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cd3a037",
+				"target": "18a5cd3e6a3"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cd3a037",
+				"target": "18a5cd4088e"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cd3a037",
+				"target": "18a5cd4322e"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bb8e69d",
+				"target": "18a5cd6b630"
 			}
 		}
 	]
