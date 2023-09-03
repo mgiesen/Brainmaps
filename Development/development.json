@@ -1,0 +1,1008 @@
+{
+	"nodes": [
+		{
+			"data": {
+				"id": "BASE-NODE",
+				"label": "Entwicklung",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bb8e69d",
+				"label": "Software",
+				"description": "Programmieren ist das Erstellen von Anweisungen für Computer, um Aufgaben zu erledigen.",
+				"youtube": "",
+				"link": "",
+				"background": "https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a840064",
+				"label": "IDE",
+				"description": "IDE ist eine Software mit Code-Editor, Compiler, Debugger und anderen Tools, um die Softwareentwicklung zu erleichtern.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a84237c",
+				"label": "Visual Studio",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a843afd",
+				"label": "Visual Studio Code",
+				"description": "",
+				"youtube": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+				"link": "",
+				"background": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a849ecc",
+				"label": "Sprachen",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a84ca69",
+				"label": "C++",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a923c87",
+				"label": "OnlineGDB",
+				"description": "Online C++ Kompiler und Debugger",
+				"youtube": "",
+				"link": "https://www.onlinegdb.com",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a8b6f0a",
+				"label": "CMake",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": "https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a85c33c",
+				"label": "Nützliche Plugins",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a86452e",
+				"label": "Live Server",
+				"description": "",
+				"youtube": "",
+				"link": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer",
+				"background": "https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a872c2d",
+				"label": "Markdown Preview Enhanced",
+				"description": "",
+				"youtube": "",
+				"link": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced",
+				"background": "https://cdn.vsassets.io/v/M226_20230814.3/_content/Header/default_icon_128.png"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a87c131",
+				"label": "Markdown Preview Mermaid Support",
+				"description": "",
+				"youtube": "",
+				"link": "https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid",
+				"background": "https://bierner.gallerycdn.vsassets.io/extensions/bierner/markdown-mermaid/1.19.0/1687388291884/Microsoft.VisualStudio.Services.Icons.Default"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a883a9b",
+				"label": "Prettier - Code formatter",
+				"description": "",
+				"youtube": "",
+				"link": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
+				"background": "https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.1.0/1690819498575/Microsoft.VisualStudio.Services.Icons.Default"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a8a0461",
+				"label": "Vcpkg",
+				"description": " Vcpkg ist ein Microsoft-Tool für einfachere Verwaltung von externen C++-Bibliotheken in Projekten.",
+				"youtube": "",
+				"link": "https://vcpkg.io/en/",
+				"background": "https://vcpkg.io/assets/mark/logo-right.svg"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a8e16f1",
+				"label": "JavaScript",
+				"description": "JavaScript ist eine weit verbreitete Programmiersprache, die hauptsächlich für die Entwicklung von interaktiven und dynamischen Webseiten verwendet wird.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a8e8e23",
+				"label": "YouTube Kanäle",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a8eb4d0",
+				"label": "Web Dev Simplified",
+				"description": "",
+				"youtube": "https://www.youtube.com/@WebDevSimplified",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a8f0f37",
+				"label": "Fireship",
+				"description": "",
+				"youtube": "https://www.youtube.com/@Fireship/videos",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a8fe22e",
+				"label": "HTML/CSS",
+				"description": "HTML (Hypertext Markup Language) ist eine Auszeichnungssprache, die zur Strukturierung von Webinhalten verwendet wird. CSS (Cascading Style Sheets) ist eine Stylesheet-Sprache, die das Aussehen und Layout von HTML-Dokumenten gestaltet.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a900e64",
+				"label": "YouTube Kanäle",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a9055be",
+				"label": "Hyperplexed",
+				"description": "",
+				"youtube": "https://www.youtube.com/@Hyperplexed",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a90beb1",
+				"label": "Kevin Powell",
+				"description": "",
+				"youtube": "https://www.youtube.com/@KevinPowell",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a930f67",
+				"label": "Svg Preview",
+				"description": "",
+				"youtube": "",
+				"link": "https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview",
+				"background": "https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a937e88",
+				"label": "Thunder Client",
+				"description": "",
+				"youtube": "",
+				"link": "https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client",
+				"background": "https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.11.1/1693564097687/Microsoft.VisualStudio.Services.Icons.Default"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a94b2f8",
+				"label": "Markdown",
+				"description": "Markdown ist eine Auszeichnungssprache zur einfachen Formatierung von Text, oft für Webinhalte verwendet.",
+				"youtube": "https://www.youtube.com/watch?v=_PPWWRV6gbA",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a95a768",
+				"label": "Mermaid",
+				"description": "Mermaid ist eine Text-basierte Sprache für Diagramme.",
+				"youtube": "",
+				"link": "https://mermaid.js.org",
+				"background": "https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a9a5d67",
+				"label": "Git",
+				"description": "Git ist ein verteiltes Versionskontrollsystem, das Entwicklern ermöglicht, Änderungen an Quellcode effizient zu verfolgen, zu verwalten und zu koordinieren.",
+				"youtube": "https://www.youtube.com/watch?v=HkdAHXoRtos",
+				"link": "https://git-scm.com",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5a9ad9b5",
+				"label": "GitHub",
+				"description": "GitHub ist eine Webplattform, die auf Git basiert und Entwicklern die gemeinsame Zusammenarbeit an Projekten, das Verfolgen von Änderungen, das Teilen von Code und die Verwaltung von Softwareentwicklungsprojekten ermöglicht.",
+				"youtube": "",
+				"link": "https://github.com",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bbb7cad",
+				"label": "Mikrocontroller und Einplatinencomputer",
+				"description": "Ein Mikrocontroller ist ein kleiner Computer auf einem Chip, der in eingebetteten Systemen für spezifische Steueraufgaben eingesetzt wird.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bbbf56f",
+				"label": "Arduino",
+				"description": "Arduino ist eine Open-Source-Plattform für Elektronikprototypen, bestehend aus einer Hardware und einer Programmierumgebung.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bbc0c6d",
+				"label": "ESP",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bbc5513",
+				"label": "Raspberry Pi",
+				"description": "Der Raspberry Pi ist ein kostengünstiger Einplatinencomputer, der vielseitig einsetzbar ist und für Projekte im Bereich Computerwissenschaft, Elektronik und Programmieren verwendet wird.",
+				"youtube": "",
+				"link": "https://www.raspberrypi.com/products/",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bbd69c4",
+				"label": "Wemos D1",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": "https://www.wemos.cc/en/latest/_images/d1_mini_v4.0.0_1_16x16.png"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bbdd426",
+				"label": "ESP32 Dev Kit",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bbf9916",
+				"label": "Arduino Mega",
+				"description": "Wenn mehr Rechenleistung und Speicher benötigt wird",
+				"youtube": "",
+				"link": "",
+				"background": "https://store.arduino.cc/cdn/shop/products/A000067_01.iso_05174292-d7da-4b20-b463-66fdd07b468f_1000x750.jpg?v=1637830343"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc19974",
+				"label": "Arduino Uno",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc1fe3b",
+				"label": "Prototyping",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc21e3a",
+				"label": "3D Druck",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc3832d",
+				"label": "Ender 3",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": "https://img.fantaskycdn.com/0ef8c12dd3f5821223630948ef46a078_540x.jpg"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc48f96",
+				"label": "Cura",
+				"description": "Cura ist eine Open-Source-Software zum Vorbereiten von 3D-Modellen für den 3D-Druck.",
+				"youtube": "",
+				"link": "",
+				"background": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_for_Cura_Software.png/240px-Logo_for_Cura_Software.png"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc4feec",
+				"label": "PCB Fertigung",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc5c314",
+				"label": "EasyEDA",
+				"description": "EasyEDA ist eine webbasierte Software zur Schaltplanerstellung und Leiterplatten-Design (PCB), die es Benutzern ermöglicht, elektronische Schaltungen zu entwerfen, zu simulieren und PCB-Layouts zu erstellen.",
+				"youtube": "",
+				"link": "https://easyeda.com",
+				"background": "https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc62882",
+				"label": "JLCPCB",
+				"description": "JLCPCB ist ein Unternehmen, das sich auf die Herstellung von Leiterplatten (PCBs) spezialisiert hat.",
+				"youtube": "https://www.youtube.com/watch?v=ljOoGyCso8s",
+				"link": "https://jlcpcb.com",
+				"background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabuDhDp3T840uE0a3Bh8T118Y_fju9tP6HSwDSXSh5JRo_lco-Rrdg_vOabpQRP6bBS8&usqp=CAU"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc97f9d",
+				"label": "Konstruktion",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bc99c54",
+				"label": "CAD",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bcaaa08",
+				"label": "Komponenten Lieferanten",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bcb1777",
+				"label": "norelem",
+				"description": "norelem ist ein Unternehmen, das sich auf die Bereitstellung von Komponenten und Lösungen für den Maschinenbau und die industrielle Anwendung spezialisiert hat. Sie bieten eine breite Palette von Normteilen, Werkzeugen, Maschinenbauelementen und Services an.",
+				"youtube": "",
+				"link": "https://norelem.de/de/",
+				"background": "https://norelem.de/medias/norelem-logo.svg?context=bWFzdGVyfHJvb3R8MjIzM3xpbWFnZS9zdmcreG1sfGg0My9oZGQvODgyMDY3NDM2MzQyMi9ub3JlbGVtX2xvZ28uc3ZnfDU2ZWJkYTg1OTVhZTE2OTFiODM4M2M5Y2FmNjhkYTA0YTA4NmY4OWM2ZTMyNjU0ZjkzZGU0ZDE2MGM1MzllZDU"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bcb75be",
+				"label": "Landefeld",
+				"description": "Landefeld ist ein Anbieter von Pneumatik- und Hydraulikkomponenten sowie Industriebedarf für den Maschinenbau und die Industrieautomation.",
+				"youtube": "",
+				"link": "https://www.landefeld.de/de",
+				"background": "https://www.landefeld.de/shop/media/kapitelbilder-startseite/1_leitungsverbinder.jpg"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bcc3600",
+				"label": "Bauteilbibliotheken",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bccce1e",
+				"label": "GrabCAD",
+				"description": "",
+				"youtube": "",
+				"link": "https://grabcad.com/library",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bcda5c6",
+				"label": "TraceParts",
+				"description": "",
+				"youtube": "",
+				"link": "https://www.traceparts.com/de",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bce9975",
+				"label": "Normteile",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bced3ea",
+				"label": "Ganter",
+				"description": "",
+				"youtube": "",
+				"link": "https://www.ganternorm.com/de/home",
+				"background": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/GanterNorm_4C.svg/500px-GanterNorm_4C.svg.png"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bd1b9b7",
+				"label": "Elektronik",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bd20bf6",
+				"label": "Hydraulik und Pneumatik",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bd2534c",
+				"label": "RS Components",
+				"description": "Ein globaler Anbieter von Elektronik- und Industriekomponenten",
+				"youtube": "",
+				"link": "https://de.rs-online.com/web/",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bd36149",
+				"label": "Mouser Electronics",
+				"description": "",
+				"youtube": "",
+				"link": "https://www.mouser.de",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bd3ef8b",
+				"label": "LCSC",
+				"description": "LCSC ist ein Online-Händler für Elektronikkomponenten wie ICs und passive Bauelemente.",
+				"youtube": "",
+				"link": "https://www.lcsc.com",
+				"background": "https://assets.lcsc.com/images/lcsc/224x224/20221227_Lelon-SY8-0J476M-RA_C1057_front.jpg"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bdd04ff",
+				"label": "Webbasierte Versionskontrollplattformen",
+				"description": "Plattform für gemeinsame Versionsverwaltung und Zusammenarbeit an Softwareentwicklungsprojekten.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bdd30ac",
+				"label": "GitLab",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bde0e49",
+				"label": "Simulation und Berechnung",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5bdf160c",
+				"label": "Wolfram Alpha",
+				"description": "",
+				"youtube": "",
+				"link": "https://www.wolframalpha.com",
+				"background": ""
+			}
+		}
+	],
+	"edges": [
+		{
+			"data": {
+				"source": "BASE-NODE",
+				"target": "18a5bb8e69d"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bb8e69d",
+				"target": "18a5a840064"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a840064",
+				"target": "18a5a84237c"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a840064",
+				"target": "18a5a843afd"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bb8e69d",
+				"target": "18a5a849ecc"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a849ecc",
+				"target": "18a5a84ca69"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a84ca69",
+				"target": "18a5a923c87"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a84ca69",
+				"target": "18a5a8b6f0a"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a843afd",
+				"target": "18a5a85c33c"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a85c33c",
+				"target": "18a5a86452e"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a85c33c",
+				"target": "18a5a872c2d"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a85c33c",
+				"target": "18a5a87c131"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a85c33c",
+				"target": "18a5a883a9b"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a84ca69",
+				"target": "18a5a8a0461"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a849ecc",
+				"target": "18a5a8e16f1"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a8e16f1",
+				"target": "18a5a8e8e23"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a8e8e23",
+				"target": "18a5a8eb4d0"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a8e8e23",
+				"target": "18a5a8f0f37"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a849ecc",
+				"target": "18a5a8fe22e"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a8fe22e",
+				"target": "18a5a900e64"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a900e64",
+				"target": "18a5a9055be"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a900e64",
+				"target": "18a5a90beb1"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a85c33c",
+				"target": "18a5a930f67"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a85c33c",
+				"target": "18a5a937e88"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a849ecc",
+				"target": "18a5a94b2f8"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a94b2f8",
+				"target": "18a5a95a768"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bb8e69d",
+				"target": "18a5a9a5d67"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bdd04ff",
+				"target": "18a5a9ad9b5"
+			}
+		},
+		{
+			"data": {
+				"source": "BASE-NODE",
+				"target": "18a5bbb7cad"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bbb7cad",
+				"target": "18a5bbbf56f"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bbb7cad",
+				"target": "18a5bbc0c6d"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bbb7cad",
+				"target": "18a5bbc5513"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bbc0c6d",
+				"target": "18a5bbd69c4"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bbc0c6d",
+				"target": "18a5bbdd426"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bbbf56f",
+				"target": "18a5bbf9916"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bbbf56f",
+				"target": "18a5bc19974"
+			}
+		},
+		{
+			"data": {
+				"source": "BASE-NODE",
+				"target": "18a5bc1fe3b"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc1fe3b",
+				"target": "18a5bc21e3a"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc21e3a",
+				"target": "18a5bc3832d"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc21e3a",
+				"target": "18a5bc48f96"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc1fe3b",
+				"target": "18a5bc4feec"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc4feec",
+				"target": "18a5bc5c314"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc4feec",
+				"target": "18a5bc62882"
+			}
+		},
+		{
+			"data": {
+				"source": "BASE-NODE",
+				"target": "18a5bc97f9d"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc97f9d",
+				"target": "18a5bc99c54"
+			}
+		},
+		{
+			"data": {
+				"source": "BASE-NODE",
+				"target": "18a5bcaaa08"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bce9975",
+				"target": "18a5bcb1777"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bd20bf6",
+				"target": "18a5bcb75be"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc99c54",
+				"target": "18a5bcc3600"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bcc3600",
+				"target": "18a5bccce1e"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bcc3600",
+				"target": "18a5bcda5c6"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bcaaa08",
+				"target": "18a5bce9975"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bce9975",
+				"target": "18a5bced3ea"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bcaaa08",
+				"target": "18a5bd1b9b7"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bcaaa08",
+				"target": "18a5bd20bf6"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bd1b9b7",
+				"target": "18a5bd2534c"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bd1b9b7",
+				"target": "18a5bd36149"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bd1b9b7",
+				"target": "18a5bd3ef8b"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a9a5d67",
+				"target": "18a5bdd04ff"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bdd04ff",
+				"target": "18a5bdd30ac"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bc97f9d",
+				"target": "18a5bde0e49"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5bde0e49",
+				"target": "18a5bdf160c"
+			}
+		}
+	]
+}
