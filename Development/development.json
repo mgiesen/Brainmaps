@@ -629,6 +629,186 @@
 				"link": "https://www.wolframalpha.com",
 				"background": ""
 			}
+		},
+		{
+			"data": {
+				"id": "18a5cbbce5f",
+				"label": "Kommunikationsschnittstellen",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cbd46ab",
+				"label": "Serielle Schnittstellen",
+				"description": "Serielle Schnittstellen sind Kommunikationswege, bei denen Daten nacheinander übertragen werden, Bit für Bit, anstatt gleichzeitig über mehrere Leitungen.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cbd7d4d",
+				"label": "RS-232",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cbda458",
+				"label": "RS-422",
+				"description": "RS-422 ist eine serielle Schnittstelle für die bidirektionale Datenübertragung.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cbddd81",
+				"label": "RS-485",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cbe46ed",
+				"label": "USB (Universal Serial Bus)",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc1dae3",
+				"label": "Netzwerkprotokolle",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc203f7",
+				"label": "UDP (User Datagram Protocol)",
+				"description": "UDP ist ein verbindungsloses Netzwerkprotokoll für schnelle Datenübertragung über IP-Netzwerke.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc227e6",
+				"label": "PROFINET",
+				"description": "PROFINET ist ein industrielles Ethernet-Protokoll für die Automatisierungstechnik.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc24065",
+				"label": "EtherCAT",
+				"description": "EtherCAT ist ein Echtzeit-Ethernet-Protokoll für die industrielle Automatisierung.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc25daf",
+				"label": "MQTT",
+				"description": "MQTT ist ein Broker-basiertes Pub/Sub-Kommunikationsprotokoll für IoT-Anwendungen, das über TCP/IP läuft.",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc2a643",
+				"label": "I2C",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc2cac8",
+				"label": "SPI",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc4a7a4",
+				"label": "Modbus TCP",
+				"description": "Modbus TCP ist eine Netzwerkprotokoll-Variante des Modbus-Protokolls, die für die Datenübertragung über TCP/IP-Netzwerke ausgelegt ist. Es wird vor allem in der industriellen Automatisierung eingesetzt",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc74864",
+				"label": "Typische Hardware Schnittstelle",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": ""
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc75d6e",
+				"label": "D-SUB",
+				"description": "D-Sub ist ein Stecker- oder Buchsentyp, oft verwendet für serielle Verbindungen.",
+				"youtube": "",
+				"link": "https://de.wikipedia.org/wiki/D-Sub",
+				"background": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DD50_male_pcb_mounting_d-sub_connector_close-up.jpg/523px-DD50_male_pcb_mounting_d-sub_connector_close-up.jpg"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5cc9edaa",
+				"label": "Ethernet",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAait5u3qPRVYGDn2OrFTj3kzW3ujScSNWza4WX_z4OrLzOokRYbCt4Eosa8TrhNIMP0&usqp=CAU"
+			}
+		},
+		{
+			"data": {
+				"id": "18a5ccae8b3",
+				"label": "LC/LC",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeBaViXskGujUObZrYtVGQrpPVfp5-j-sM-S0YclvMf2gvEdtFyRBw2TZrGg4qIYkLzk&usqp=CAU"
+			}
 		}
 	],
 	"edges": [
@@ -1002,6 +1182,114 @@
 			"data": {
 				"source": "18a5bde0e49",
 				"target": "18a5bdf160c"
+			}
+		},
+		{
+			"data": {
+				"source": "BASE-NODE",
+				"target": "18a5cbbce5f"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbbce5f",
+				"target": "18a5cbd46ab"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cbd7d4d"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cbda458"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cbddd81"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cbe46ed"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbbce5f",
+				"target": "18a5cc1dae3"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cc1dae3",
+				"target": "18a5cc203f7"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cc1dae3",
+				"target": "18a5cc227e6"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cc1dae3",
+				"target": "18a5cc24065"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cc1dae3",
+				"target": "18a5cc25daf"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cc2a643"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbd46ab",
+				"target": "18a5cc2cac8"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cc1dae3",
+				"target": "18a5cc4a7a4"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cbbce5f",
+				"target": "18a5cc74864"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cc74864",
+				"target": "18a5cc75d6e"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cc74864",
+				"target": "18a5cc9edaa"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5cc74864",
+				"target": "18a5ccae8b3"
 			}
 		}
 	]
