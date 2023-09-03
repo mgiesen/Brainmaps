@@ -2,16 +2,6 @@
 	"nodes": [
 		{
 			"data": {
-				"id": "BASE-NODE",
-				"label": "Entwicklung",
-				"description": "",
-				"youtube": "",
-				"link": "",
-				"background": ""
-			}
-		},
-		{
-			"data": {
 				"id": "18a5bb8e69d",
 				"label": "Software",
 				"description": "Programmieren ist das Erstellen von Anweisungen für Computer, um Aufgaben zu erledigen.",
@@ -894,12 +884,6 @@
 	"edges": [
 		{
 			"data": {
-				"source": "BASE-NODE",
-				"target": "18a5bb8e69d"
-			}
-		},
-		{
-			"data": {
 				"source": "18a5bb8e69d",
 				"target": "18a5a840064"
 			}
@@ -1062,12 +1046,6 @@
 		},
 		{
 			"data": {
-				"source": "BASE-NODE",
-				"target": "18a5bbb7cad"
-			}
-		},
-		{
-			"data": {
 				"source": "18a5bbb7cad",
 				"target": "18a5bbbf56f"
 			}
@@ -1110,12 +1088,6 @@
 		},
 		{
 			"data": {
-				"source": "BASE-NODE",
-				"target": "18a5bc1fe3b"
-			}
-		},
-		{
-			"data": {
 				"source": "18a5bc1fe3b",
 				"target": "18a5bc21e3a"
 			}
@@ -1152,20 +1124,8 @@
 		},
 		{
 			"data": {
-				"source": "BASE-NODE",
-				"target": "18a5bc97f9d"
-			}
-		},
-		{
-			"data": {
 				"source": "18a5bc97f9d",
 				"target": "18a5bc99c54"
-			}
-		},
-		{
-			"data": {
-				"source": "BASE-NODE",
-				"target": "18a5bcaaa08"
 			}
 		},
 		{
@@ -1262,12 +1222,6 @@
 			"data": {
 				"source": "18a5bde0e49",
 				"target": "18a5bdf160c"
-			}
-		},
-		{
-			"data": {
-				"source": "BASE-NODE",
-				"target": "18a5cbbce5f"
 			}
 		},
 		{
