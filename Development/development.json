@@ -7,7 +7,8 @@
 				"description": "Programmieren ist das Erstellen von Anweisungen für Computer, um Aufgaben zu erledigen.",
 				"youtube": "",
 				"link": "",
-				"background": ""
+				"background": "https://cdn.pixabay.com/photo/2015/09/05/20/02/coding-924920_1280.jpg",
+				"new": true
 			}
 		},
 		{
@@ -152,32 +153,35 @@
 		},
 		{
 			"data": {
-				"id": "18a5a8e8e23",
-				"label": "YouTube Kanäle",
+				"id": "18a6782ef91",
+				"label": "W3Schools",
 				"description": "",
 				"youtube": "",
-				"link": "",
-				"background": ""
+				"link": "https://www.w3schools.com",
+				"background": "",
+				"new": true
 			}
 		},
 		{
 			"data": {
-				"id": "18a5a8eb4d0",
-				"label": "Web Dev Simplified",
-				"description": "",
-				"youtube": "https://www.youtube.com/@WebDevSimplified",
-				"link": "",
-				"background": ""
-			}
-		},
-		{
-			"data": {
-				"id": "18a5a8f0f37",
+				"id": "18a6784ca75",
 				"label": "Fireship",
 				"description": "",
 				"youtube": "https://www.youtube.com/@Fireship/videos",
 				"link": "",
-				"background": ""
+				"background": "",
+				"new": true
+			}
+		},
+		{
+			"data": {
+				"id": "18a678456f3",
+				"label": "Web Dev Simplified",
+				"description": "",
+				"youtube": "https://www.youtube.com/@WebDevSimplified",
+				"link": "",
+				"background": "",
+				"new": true
 			}
 		},
 		{
@@ -193,11 +197,12 @@
 		{
 			"data": {
 				"id": "18a5a900e64",
-				"label": "YouTube Kanäle",
+				"label": "Lernen",
 				"description": "",
 				"youtube": "",
 				"link": "",
-				"background": ""
+				"background": "",
+				"new": true
 			}
 		},
 		{
@@ -437,7 +442,8 @@
 				"description": "",
 				"youtube": "",
 				"link": "",
-				"background": ""
+				"background": "https://cdn.pixabay.com/photo/2016/11/25/21/00/plan-1859394_1280.jpg",
+				"new": true
 			}
 		},
 		{
@@ -457,7 +463,8 @@
 				"description": "",
 				"youtube": "",
 				"link": "",
-				"background": ""
+				"background": "https://media.istockphoto.com/id/1406705759/photo/stack-of-blue-container-boxes-with-sky-background-cargo-freight-shipping-for-import-and.webp?b=1&s=612x612&w=0&k=20&c=cX5-Z_f1vGKUZEWYM6aedV_OyesZxgz8e4bLyFTfWnk=",
+				"new": true
 			}
 		},
 		{
@@ -877,7 +884,30 @@
 				"description": "",
 				"youtube": "",
 				"link": "",
-				"background": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/USASCII_code_chart.png/1000px-USASCII_code_chart.png"
+				"background": "",
+				"new": true
+			}
+		},
+		{
+			"data": {
+				"id": "18a6781e529",
+				"label": "Code Pen",
+				"description": "",
+				"youtube": "",
+				"link": "https://codepen.io/pen/",
+				"background": "",
+				"new": true
+			}
+		},
+		{
+			"data": {
+				"id": "18a677c096f",
+				"label": "Webentwicklung",
+				"description": "",
+				"youtube": "",
+				"link": "",
+				"background": "",
+				"new": true
 			}
 		}
 	],
@@ -962,37 +992,37 @@
 		},
 		{
 			"data": {
-				"source": "18a5a849ecc",
+				"source": "18a677c096f",
 				"target": "18a5a8e16f1"
 			}
 		},
 		{
 			"data": {
-				"source": "18a5a8e16f1",
-				"target": "18a5a8e8e23"
+				"source": "18a5a900e64",
+				"target": "18a6782ef91"
 			}
 		},
 		{
 			"data": {
-				"source": "18a5a8e8e23",
-				"target": "18a5a8eb4d0"
+				"source": "18a5a900e64",
+				"target": "18a6784ca75"
 			}
 		},
 		{
 			"data": {
-				"source": "18a5a8e8e23",
-				"target": "18a5a8f0f37"
+				"source": "18a5a900e64",
+				"target": "18a678456f3"
 			}
 		},
 		{
 			"data": {
-				"source": "18a5a849ecc",
+				"source": "18a677c096f",
 				"target": "18a5a8fe22e"
 			}
 		},
 		{
 			"data": {
-				"source": "18a5a8fe22e",
+				"source": "18a677c096f",
 				"target": "18a5a900e64"
 			}
 		},
@@ -1372,6 +1402,18 @@
 			"data": {
 				"source": "18a5bb8e69d",
 				"target": "18a5cd6b630"
+			}
+		},
+		{
+			"data": {
+				"source": "18a677c096f",
+				"target": "18a6781e529"
+			}
+		},
+		{
+			"data": {
+				"source": "18a5a849ecc",
+				"target": "18a677c096f"
 			}
 		}
 	]
