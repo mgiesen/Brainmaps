@@ -7,4 +7,5 @@ Welcome to my Brainmaps repository. Here you'll find my own Brainmaps, which I w
 Focused on industrial applications, this map provides an overview of topics related to both hardware and software development.
 
 - [JSON File](https://raw.githubusercontent.com/mgiesen/Brainmaps/main/Development/development.json)
-- [Open Brainmap directly](https://mgiesen.github.io/OpenBrainMap/?map=https://raw.githubusercontent.com/mgiesen/Brainmaps/main/Development/development.json)
+- [Open Brainmap directly](https://mgiesen.github.io/Open-Brain-Map/?map=https://raw.githubusercontent.com/mgiesen/Brainmaps/main/Development/development.json)
+
